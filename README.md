@@ -8,7 +8,25 @@
 
 ###
 
-<h3 align="left">I've been doing web development for over 3 years now and have seen a lot during that time. I am a developer from Uzbekistan and I am 16 years old<br><br>Actually, I began to be interested in this profession when I was still 13 years old, it was exciting and interesting. Then I realized what I wanted to become when I grew up. This profession was unique, unlike other jobs, so I decided to become a programmer</h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const information = {
+    pronouns: "He" | "Him",
+    first_name: "Shaxobiddin",
+    askMeAbout: ["web dev", "tech", "app dev"],
+    aboutMe: {
+        I have been doing web development for over 3 years now and have seen a lot during that time. 
+        I am a developer from Uzbekistan and I am 16 years old
+        
+
+        Actually, I began to be interested in this profession 
+        when I was still 13 years old, it was exciting and interesting. 
+        Then I realized what I wanted to become when I grew up. 
+        This profession was unique, unlike other jobs, so I decided to become a programmer
+};
+```
+
 <br/>
 <br/>
 <br/>
