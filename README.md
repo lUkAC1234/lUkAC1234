@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"  />
+  <img height="400" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"  />
 </div>
 
 ###
@@ -66,7 +66,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://static.zerochan.net/joze.phine.full.2119976.jpg">
+  <img height="400" src="https://static.zerochan.net/joze.phine.full.2119976.jpg">
 </div>
 
 <h3 align="right">My social medias ?</h3>
