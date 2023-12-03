@@ -108,6 +108,7 @@ const information = {
 
 <script>
   alert("Salam bratva");
+  console.log("Salam bratva ot console.log")
 </script>
 ###
 
