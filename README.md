@@ -105,11 +105,6 @@ const information = {
 <br/>
 <br/>
 <br/>
-
-<script>
-  alert("Salam bratva");
-  console.log("Salam bratva ot console.log")
-</script>
 ###
 
 <h2 align="center">How many people are watching my Github account</h2>
