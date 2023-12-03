@@ -16,6 +16,7 @@ const information = {
     first_name: "Shaxobiddin",
     askMeAbout: ["web dev", "tech", "app dev"],
     aboutMe: {
+        """
         I have been doing web development for over 3 years now and have seen a lot during that time. 
         I am a developer from Uzbekistan and I am 16 years old
         
@@ -24,6 +25,8 @@ const information = {
         when I was still 13 years old, it was exciting and interesting. 
         Then I realized what I wanted to become when I grew up. 
         This profession was unique, unlike other jobs, so I decided to become a programmer
+
+        """
 };
 ```
 
