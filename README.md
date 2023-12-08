@@ -21,7 +21,6 @@ const information = {
         when I was still 13 years old, it was exciting and interesting. 
         Then I realized what I wanted to become when I grew up. 
         This profession was unique, unlike other jobs, so I decided to become a programmer
-
         """
 };
 </pre>
