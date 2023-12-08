@@ -83,9 +83,6 @@ const information = {
 <br/>
 <hr/>
 
-
-###
-
 <div align="center">
   <img height="400" src="https://static.zerochan.net/joze.phine.full.2119976.jpg">
 </div>
