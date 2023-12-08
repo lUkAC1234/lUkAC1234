@@ -6,7 +6,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
+<pre>
 const information = {
     pronouns: "He" | "Him",
     first_name: "Shaxobiddin",
@@ -24,7 +24,7 @@ const information = {
 
         """
 };
-```
+</pre>
 
 <br/>
 <br/>
