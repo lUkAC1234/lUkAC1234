@@ -2,11 +2,7 @@
   <img height="400" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"  />
 </div>
 
-###
-
 <h2 align="left">Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
-
-###
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -42,14 +38,11 @@ const information = {
 <br/>
 <br/>
 
-###
-
 <h3 align="center">What languages do I program in?</h3>
 <br/>
 <br/>
 <br/>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -89,8 +82,6 @@ const information = {
 
 <h3 align="right">My social medias ?</h3>
 
-###
-
 <div align="right">
   <a href="https://www.instagram.com/i.really_miss.you_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8828FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -102,11 +93,7 @@ const information = {
 <br/>
 <br/>
 <br/>
-###
-
 <h2 align="center">How many people are watching my Github account</h2>
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/lUkAC1234/count.svg?"  />
