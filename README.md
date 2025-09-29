@@ -3,24 +3,24 @@
 </div>
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<pre>
+```javascript
 const information = {
-    pronouns: "He" | "Him",
-    first_name: "Shaxobiddin",
-    askMeAbout: ["web dev", "tech", "app dev"],
-    aboutMe: {
-        """
-        I have been doing web development for over 4 years now and have seen a lot during that time. 
-        I am a developer from Uzbekistan and I am 18 years old
-        
+  pronouns: "He/Him",
+  firstName: "Shaxobiddin",
+  askMeAbout: ["Web Development", "Technology", "App Development"],
+  aboutMe: `
+    I am an 18-year-old developer from Uzbekistan with over 4 years of 
+    hands-on experience in web development. My journey began at the age 
+    of 12, when I discovered the excitement of creating and building 
+    things with code. 
 
-        Actually, I began to be interested in this profession 
-        when I was still 12 years old, it was exciting and interesting. 
-        Then I realized what I wanted to become when I grew up. 
-        This profession was unique, unlike other jobs, so I decided to become a programmer
-        """
+    Since then, programming has grown from a hobby into a profession 
+    that I am deeply passionate about. Unlike many other paths, this 
+    career gives me the freedom to create, innovate, and solve problems 
+    in unique ways. 
+  `,
 };
-</pre>
+
 <br/>
 <table>
 <tr>
