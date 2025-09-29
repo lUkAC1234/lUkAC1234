@@ -13,12 +13,12 @@ const information = {
     askMeAbout: ["web dev", "tech", "app dev"],
     aboutMe: {
         """
-        I have been doing web development for over 3 years now and have seen a lot during that time. 
-        I am a developer from Uzbekistan and I am 16 years old
+        I have been doing web development for over 4 years now and have seen a lot during that time. 
+        I am a developer from Uzbekistan and I am 18 years old
         
 
         Actually, I began to be interested in this profession 
-        when I was still 13 years old, it was exciting and interesting. 
+        when I was still 12 years old, it was exciting and interesting. 
         Then I realized what I wanted to become when I grew up. 
         This profession was unique, unlike other jobs, so I decided to become a programmer
         """
@@ -39,9 +39,6 @@ const information = {
 
 <h3 align="center">What languages do I program in?</h3>
 <br/>
-<br/>
-<br/>
-
 
 <div align="center">
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/technologiesNew%201.svg" alt="Technologies logo" />
@@ -59,10 +56,10 @@ const information = {
 
 <div align="right">
   <a href="https://www.instagram.com/i.really_miss.you_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=8828FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/instagram.svg" width="32" height="32" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/shaxobiddin-zuxriddinov-473110294/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=8828FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/telegram.svg" width="32" height="32" alt="linkedin logo"  />
   </a>
 </div>
 <br/>
