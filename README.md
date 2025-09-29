@@ -130,7 +130,7 @@ and applying modern web best practices to solve real problems.
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/gif/githubProfileGif.gif"  />
 </div>
 <h3>My social medias ?</h3>
-<table align="center" style="margin:12px auto;border-collapse:collapse;">
+<table style="margin:12px auto;border-collapse:collapse;">
   <tr>
     <td style="padding:6px;">
       <a
