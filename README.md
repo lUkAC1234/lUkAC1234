@@ -93,19 +93,19 @@ and applying modern web best practices to solve real problems.
     <tbody>
       <tr style="background:#ffffff;border-top:1px solid rgba(11,17,28,0.04);">
         <th scope="row" style="text-align:left;padding:12px 14px;width:38%;font-weight:700;color:#0b1220;background:#fbfdff;border-right:1px solid rgba(11,17,28,0.04);">
-          Pronouns
+         Pronouns
         </th>
         <td style="padding:12px 14px;color:#1f2b3a;">He/Him</td>
       </tr>
       <tr style="background:linear-gradient(180deg,#ffffff,#fbfdff);">
         <th scope="row" style="text-align:left;padding:12px 14px;font-weight:700;color:#0b1220;border-right:1px solid rgba(11,17,28,0.04);">
-          Experience
+         Experience
         </th>
         <td style="padding:12px 14px;color:#1f2b3a;">4+ years (started coding at 12)</td>
       </tr>
       <tr style="background:#ffffff;">
         <th scope="row" style="text-align:left;padding:12px 14px;font-weight:700;color:#0b1220;border-right:1px solid rgba(11,17,28,0.04);">
-          Location
+         Location
         </th>
         <td style="padding:12px 14px;color:#1f2b3a;">Uzbekistan, Tashkent</td>
       </tr>
