@@ -229,7 +229,7 @@ and applying modern web best practices to solve real problems.
   </tr>
   <tr>
     <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:12px;color:#6b7280;">
-      <a href="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf?raw=true"
+      <a href="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/pdf/ResumeEnglish.pdf?raw=true"
          title="Download Resume (English)">
         PDF &nbsp;•&nbsp; Download
       </a>
