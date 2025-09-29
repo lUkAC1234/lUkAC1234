@@ -2,7 +2,7 @@
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/gif/githubProfileGif.gif"  />
 </div>
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <pre>
 const information = {
     pronouns: "He" | "Him",
@@ -36,7 +36,7 @@ const information = {
 </div>
 <br/>
 <div>
-  <img height="400" src="https://static.zerochan.net/joze.phine.full.2119976.jpg">
+  <img height="400" src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/banner.svg">
 </div>
 <h3>My social medias ?</h3>
 <table>
