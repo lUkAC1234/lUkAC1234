@@ -30,8 +30,8 @@ const information = {
 <br/>
 
 <div>
-  <img src="https://streak-stats.demolab.com?user=lUkAC1234&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lUkAC1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=lUkAC1234&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5" min-height="150" max-height="150" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lUkAC1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue&hide_border=false" min-height="150" max-height="150" height="150" alt="languages graph"  />
 </div>
 <br/>
 <br/>
