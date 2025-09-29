@@ -4,10 +4,6 @@
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <article aria-label="Profile of Shaxobiddin">
-  <h1>Shaxobiddin</h1>
-  <p><strong>Full-Stack Developer</strong> • Uzbekistan • <strong>He/Him</strong></p>
-
-  <h2>About me</h2>
   <p>
     I am an 18-year-old full-stack developer from Uzbekistan with over four years of
     practical experience building web applications. I first discovered programming at
@@ -16,18 +12,62 @@
     modern web technologies and best practices.
   </p>
 
-  <h2>Focus areas</h2>
+  <h3>Focus areas</h3>
   <ul>
     <li>Web development (frontend & backend)</li>
     <li>App development and progressive web apps</li>
     <li>Software architecture, performance and maintainability</li>
   </ul>
 
-  <h2>Quick profile</h2>
+  <h3>Study</h3>
+  <table
+    style="width:100%;max-width:900px;border-collapse:separate;border-spacing:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial;box-shadow:0 8px 24px rgba(2,6,23,0.5);border-radius:10px;overflow:hidden;"
+    aria-label="Study history table for Shaxobiddin"
+  >
+    <caption style="text-align:left;padding:14px 18px;font-weight:700;font-size:16px;color:#0b1220;background:linear-gradient(90deg,#e6f3ff, #f1f7ff);">
+      Study
+    </caption>
+    <thead>
+      <tr>
+        <th style="text-align:left;padding:12px 18px;background:#0b1220;color:#e6eef6;font-size:13px">Institution</th>
+        <th style="text-align:left;padding:12px 18px;background:#0b1220;color:#e6eef6;font-size:13px">Location</th>
+        <th style="text-align:left;padding:12px 18px;background:#0b1220;color:#e6eef6;font-size:13px">Program / Specialty</th>
+        <th style="text-align:left;padding:12px 18px;background:#0b1220;color:#e6eef6;font-size:13px">Period / Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background:#ffffff;">
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.06);font-weight:600;color:#071026">School No. 146 — Sebzar General Secondary</td>
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.06);color:#1f2b3a">Tashkent</td>
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.06);color:#1f2b3a">General secondary education</td>
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.06);color:#0b1220;font-weight:600">Graduated — 2023</td>
+      </tr>
+      <tr style="background:linear-gradient(180deg,#fbfdff,#f7fbff);">
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.04);font-weight:600;color:#071026">Transport Lyceum</td>
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.04);color:#1f2b3a">Tashkent, Almazar District</td>
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.04);color:#1f2b3a"><strong>Specialty:</strong> Economics</td>
+        <td style="padding:14px 18px;border-bottom:1px solid rgba(11,17,28,0.04);color:#0b1220;font-weight:600">Graduation — July 2025</td>
+      </tr>
+      <tr style="background:#ffffff;">
+        <td style="padding:14px 18px;color:#071026;font-weight:600">University of Westminster Tashkent</td>
+        <td style="padding:14px 18px;color:#1f2b3a">Tashkent</td>
+        <td style="padding:14px 18px;color:#1f2b3a"><strong>BSc</strong> — Economics</td>
+        <td style="padding:14px 18px;color:#0b1220;font-weight:600">July 2025 – Present</td>
+      </tr>
+    </tbody>
+    <tfoot>
+      <tr>
+        <td colspan="4" style="padding:12px 18px;background:#f3f7fb;color:#334155;font-size:13px">
+          Notes: Dates are shown as provided. If you want condensed one-line rows or a version for GitHub README (plain Markdown), I can convert it.
+        </td>
+      </tr>
+    </tfoot>
+  </table>
+  <h3>Quick profile</h3>
   <p>
     <strong>Pronouns:</strong> He/Him<br>
     <strong>Experience:</strong> 4+ years (started coding at 12)<br>
-    <strong>Location:</strong> Uzbekistan
+    <strong>Location:</strong> Uzbekistan, Tashkent
   </p>
 </article>
 <br/>
