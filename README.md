@@ -61,9 +61,8 @@ const information = {
 <br/>
 <h3>My Resumes</h3>
 
-<div style="display: flex; gap: 20px; align-items: stretch; margin-top: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; margin-top: 20px;">
 
-  <!-- Russian Resume Card -->
   <a href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf" download
      style="display: flex; flex-direction: column; align-items: center; text-decoration: none; background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s; width: 200px;">
     <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg" height="60" alt="PDF icon" />
