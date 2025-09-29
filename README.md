@@ -13,20 +13,29 @@
   </p>
 
   <h3>Focus areas</h3>
-  <ul>
-    <li>Web development (frontend & backend)</li>
-    <li>App development and progressive web apps</li>
-    <li>Software architecture, performance and maintainability</li>
-  </ul>
+ <table
+    style="width:100%;max-width:900px;border-collapse:separate;border-spacing:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial;box-shadow:0 8px 24px rgba(2,6,23,0.12);border-radius:10px;overflow:hidden;"
+    aria-label="Focus areas table for Shaxobiddin"
+  >
+    <tbody>
+      <tr style="background:#ffffff;">
+        <td style="padding:16px 18px;color:#071026;font-weight:700;width:220px;border-right:1px solid rgba(11,17,28,0.06);vertical-align:top">Primary focus</td>
+        <td style="padding:16px 18px;color:#1f2b3a;line-height:1.6;vertical-align:top">
+          <ul style="margin:0;padding-left:20px;">
+            <li>Web development (frontend &amp; backend)</li>
+            <li>App development and progressive web apps</li>
+            <li>Software architecture, performance, and maintainability</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
   <h3>Study</h3>
   <table
     style="width:100%;max-width:900px;border-collapse:separate;border-spacing:0;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial;box-shadow:0 8px 24px rgba(2,6,23,0.5);border-radius:10px;overflow:hidden;"
     aria-label="Study history table for Shaxobiddin"
   >
-    <caption style="text-align:left;padding:14px 18px;font-weight:700;font-size:16px;color:#0b1220;background:linear-gradient(90deg,#e6f3ff, #f1f7ff);">
-      Study
-    </caption>
     <thead>
       <tr>
         <th style="text-align:left;padding:12px 18px;background:#0b1220;color:#e6eef6;font-size:13px">Institution</th>
@@ -55,13 +64,6 @@
         <td style="padding:14px 18px;color:#0b1220;font-weight:600">July 2025 – Present</td>
       </tr>
     </tbody>
-    <tfoot>
-      <tr>
-        <td colspan="4" style="padding:12px 18px;background:#f3f7fb;color:#334155;font-size:13px">
-          Notes: Dates are shown as provided. If you want condensed one-line rows or a version for GitHub README (plain Markdown), I can convert it.
-        </td>
-      </tr>
-    </tfoot>
   </table>
   <h3>Quick profile</h3>
   <p>
