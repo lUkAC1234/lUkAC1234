@@ -6,14 +6,14 @@
   <div
     role="region"
     aria-label="More about me"
-    style="max-width:900px;margin:20px auto 36px auto;font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;color:#0b1220;"
+    style="max-width:900px;margin:20px auto 36px auto;color:#0b1220;"
   >
     <div
       style="display:flex;gap:14px;align-items:flex-start;background:#f8fbff;border:1px solid rgba(11,17,28,0.04);padding:14px;border-radius:10px;box-shadow:0 8px 20px rgba(2,6,23,0.06);"
     >
       <div style="display:flex;gap:14px;align-items:center;flex:0 0 auto;">
         <img
-          src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
+          src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/webp/cat.webp"
           alt="Animated coding gif"
           width="56"
           height="56"
@@ -123,7 +123,7 @@ and applying modern web best practices to solve real problems.
 <h3>What languages do I program in?</h3>
 <br/>
 <div>
-  <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/technologiesNew%201.svg" alt="Technologies logo" />
+  <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/technologies.svg" alt="Technologies logo" />
 </div>
 <br/>
 <div align="center">
