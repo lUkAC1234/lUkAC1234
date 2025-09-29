@@ -178,49 +178,75 @@ and applying modern web best practices to solve real problems.
 </table>
 <br/>
 <h3>My Resumes</h3>
-<table style="margin:12px auto;border-collapse:collapse;font-family:Inter, system-ui, -apple-system,'Segoe UI',Roboto,Arial,sans-serif;">
+<table style="margin:12px auto;border-collapse:collapse;">
   <tr>
-    <td style="padding:10px;">
+    <td style="padding:6px;text-align:center;">
       <a
         href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/ResumeEnglish.pdf"
         download
         role="button"
-        aria-label="Download Resume in English"
-        title="Download Resume (English)"
-        style="display:inline-block;text-decoration:none;line-height:0;transition:transform .16s ease, box-shadow .16s ease;"
-        onmouseover="this.style.transform='translateY(-4px) scale(1.02)'; this.style.boxShadow='0 10px 30px rgba(2,6,23,0.12)';"
-        onmouseout="this.style.transform='none'; this.style.boxShadow='0 6px 18px rgba(2,6,23,0.08)';"
+        aria-label="Download Resume (English)"
+        title="Resume (English)"
+        style="display:inline-block;text-decoration:none;line-height:0;"
       >
-        <span style="display:flex;flex-direction:column;align-items:center;background:#ffffff;border-radius:12px;padding:14px;width:170px;box-shadow:0 6px 18px rgba(2,6,23,0.08);border:1px solid rgba(11,17,28,0.04);">
-          <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg"
-               alt="PDF icon"
-               width="64" height="64"
-               style="display:block;object-fit:contain;margin-bottom:10px;" />
-          <div style="font-weight:700;color:#071026;font-size:14px;text-align:center;">Resume (English)</div>
-          <div style="font-size:12px;color:#5b6b7a;margin-top:6px;">PDF • Download</div>
+        <span style="display:inline-block;width:56px;height:56px;border-radius:50%;background:#ffffff;padding:10px;box-shadow:0 6px 18px rgba(2,6,23,0.12);border:1px solid rgba(11,17,28,0.04);">
+          <img
+            src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg"
+            alt="PDF (English)"
+            width="36" height="36"
+            style="display:block;max-width:100%;height:auto;"
+          />
         </span>
       </a>
     </td>
-    <td style="padding:10px;">
+    <td style="padding:6px;text-align:center;">
       <a
         href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf"
         download
         role="button"
-        aria-label="Download Resume in Russian"
-        title="Download Resume (Russian)"
-        style="display:inline-block;text-decoration:none;line-height:0;transition:transform .16s ease, box-shadow .16s ease;"
-        onmouseover="this.style.transform='translateY(-4px) scale(1.02)'; this.style.boxShadow='0 10px 30px rgba(2,6,23,0.12)';"
-        onmouseout="this.style.transform='none'; this.style.boxShadow='0 6px 18px rgba(2,6,23,0.08)';"
+        aria-label="Download Resume (Russian)"
+        title="Resume (Russian)"
+        style="display:inline-block;text-decoration:none;line-height:0;"
       >
-        <span style="display:flex;flex-direction:column;align-items:center;background:#ffffff;border-radius:12px;padding:14px;width:170px;box-shadow:0 6px 18px rgba(2,6,23,0.08);border:1px solid rgba(11,17,28,0.04);">
-          <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg"
-               alt="PDF icon"
-               width="64" height="64"
-               style="display:block;object-fit:contain;margin-bottom:10px;" />
-          <div style="font-weight:700;color:#071026;font-size:14px;text-align:center;">Resume (Russian)</div>
-          <div style="font-size:12px;color:#5b6b7a;margin-top:6px;">PDF • Download</div>
+        <span style="display:inline-block;width:56px;height:56px;border-radius:50%;background:#ffffff;padding:10px;box-shadow:0 6px 18px rgba(2,6,23,0.12);border:1px solid rgba(11,17,28,0.04);">
+          <img
+            src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg"
+            alt="PDF (Russian)"
+            width="36" height="36"
+            style="display:block;max-width:100%;height:auto;"
+          />
         </span>
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-top:8px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:13px;color:#334155;">
+      <a
+        href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/ResumeEnglish.pdf"
+        download
+        style="color:inherit;text-decoration:none;font-weight:700;"
+        title="Download Resume (English)"
+      >
+        Resume (English)
+      </a>
+    </td>
+    <td style="padding-top:8px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:13px;color:#334155;">
+      <a
+        href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf"
+        download
+        style="color:inherit;text-decoration:none;font-weight:700;"
+        title="Download Resume (Russian)"
+      >
+        Resume (Russian)
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:12px;color:#6b7280;">
+      PDF &nbsp;•&nbsp; Download
+    </td>
+    <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:12px;color:#6b7280;">
+      PDF &nbsp;•&nbsp; Download
     </td>
   </tr>
 </table>
