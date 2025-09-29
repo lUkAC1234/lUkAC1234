@@ -2,8 +2,8 @@
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/banner.svg">
 </div>
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 <article aria-label="Profile of Shaxobiddin">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
   <p>
     I am an 18-year-old full-stack developer from Uzbekistan with over four years of
     practical experience building web applications. I first discovered programming at
