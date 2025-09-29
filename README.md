@@ -26,9 +26,6 @@ const information = {
 </pre>
 
 <br/>
-<br/>
-<br/>
-
 <table>
 <tr>
 <td><img src="https://streak-stats.demolab.com?user=lUkAC1234&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5" height="150" alt="streak graph" /></td>
@@ -37,8 +34,6 @@ const information = {
 </table>
 
 <br/>
-<br/>
-<br/>
 
 <h3>What languages do I program in?</h3>
 <br/>
@@ -46,8 +41,6 @@ const information = {
 <div>
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/technologiesNew%201.svg" alt="Technologies logo" />
 </div>
-<br/>
-<br/>
 <br/>
 <hr/>
 
@@ -66,10 +59,16 @@ const information = {
   </a>
 </div>
 <br/>
-<br/>
-<br/>
-<h3>How many people are watching my Github account</h2>
+<h3>My Resumes</h3>
 
-<div>
-  <img src="https://profile-counter.glitch.me/lUkAC1234/count.svg?"  />
+<div style="display: flex; gap: 20px; align-items: center; margin-top: 20px;">
+  <a href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf" download>
+    <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg" height="50" alt="PDF icon" />
+    <p>Резюме (Русский)</p>
+  </a>
+  <a href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/ResumeEnglish.pdf" download>
+    <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg" height="50" alt="PDF icon" />
+    <p>Resume (English)</p>
+  </a>
 </div>
+
