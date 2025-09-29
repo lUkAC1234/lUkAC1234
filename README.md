@@ -130,17 +130,49 @@ and applying modern web best practices to solve real problems.
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/gif/githubProfileGif.gif"  />
 </div>
 <h3>My social medias ?</h3>
-<table>
+<table align="center" style="margin:12px auto;border-collapse:collapse;">
   <tr>
-    <td align="center" style="padding: 5px;">
-      <a href="https://www.instagram.com/zukhriddinov.sh/" target="_blank">
-        <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/instagram.svg" width="32" height="32" alt="instagram logo" />
+    <td style="padding:6px;">
+      <a
+        href="https://www.instagram.com/zukhriddinov.sh/"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Instagram — zukhriddinov.sh"
+        title="Instagram"
+        style="display:inline-block;text-decoration:none;line-height:0;"
+      >
+        <span style="display:inline-block;width:46px;height:46px;border-radius:50%;background:#fff;padding:8px;box-shadow:0 6px 18px rgba(2,6,23,0.12);border:1px solid rgba(11,17,28,0.04);transition:transform .18s ease;">
+          <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/instagram.svg"
+               alt="Instagram"
+               width="30" height="30"
+               style="display:block;max-width:100%;height:auto;"/>
+        </span>
       </a>
     </td>
-    <td align="center" style="padding: 5px;">
-      <a href="https://t.me/lUkACENkO1" target="_blank">
-        <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/telegram.svg" width="32" height="32" alt="telegram logo" />
+    <td style="padding:6px;">
+      <a
+        href="https://t.me/lUkACENkO1"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Telegram — lUkACENkO1"
+        title="Telegram"
+        style="display:inline-block;text-decoration:none;line-height:0;"
+      >
+        <span style="display:inline-block;width:46px;height:46px;border-radius:50%;background:#fff;padding:8px;box-shadow:0 6px 18px rgba(2,6,23,0.12);border:1px solid rgba(11,17,28,0.04);transition:transform .18s ease;">
+          <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/telegram.svg"
+               alt="Telegram"
+               width="30" height="30"
+               style="display:block;max-width:100%;height:auto;"/>
+        </span>
       </a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial,sans-serif;font-size:12px;color:#334155;">
+      <a href="https://www.instagram.com/zukhriddinov.sh/" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:none;" title="Instagram">@zukhriddinov.sh</a>
+    </td>
+    <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial,sans-serif;font-size:12px;color:#334155;">
+      <a href="https://t.me/lUkACENkO1" target="_blank" rel="noopener noreferrer" style="color:inherit;text-decoration:none;" title="Telegram">@lUkACENkO1</a>
     </td>
   </tr>
 </table>
