@@ -1,11 +1,8 @@
 <div align="center">
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/gif/githubProfileGif.gif"  />
 </div>
-
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 <pre>
 const information = {
     pronouns: "He" | "Him",
@@ -24,7 +21,6 @@ const information = {
         """
 };
 </pre>
-
 <br/>
 <table>
 <tr>
@@ -32,38 +28,33 @@ const information = {
 <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lUkAC1234&locale=en&layout=compact&card_width=320&langs_count=4&theme=vue&hide_border=false" height="150" alt="languages graph" /></td>
 </tr>
 </table>
-
 <br/>
-
 <h3>What languages do I program in?</h3>
 <br/>
-
 <div>
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/technologiesNew%201.svg" alt="Technologies logo" />
 </div>
 <br/>
-<hr/>
-
 <div>
   <img height="400" src="https://static.zerochan.net/joze.phine.full.2119976.jpg">
 </div>
-
 <h3>My social medias ?</h3>
-
-<div>
-  <a href="https://www.instagram.com/zukhriddinov.sh/" target="_blank">
-    <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/instagram.svg" width="32" height="32" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/lUkACENkO1" target="_blank">
-    <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/telegram.svg" width="32" height="32" alt="linkedin logo"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td align="center" style="padding: 5px;">
+      <a href="https://www.instagram.com/zukhriddinov.sh/" target="_blank">
+        <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/instagram.svg" width="32" height="32" alt="instagram logo" />
+      </a>
+    </td>
+    <td align="center" style="padding: 5px;">
+      <a href="https://t.me/lUkACENkO1" target="_blank">
+        <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/telegram.svg" width="32" height="32" alt="telegram logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br/>
-<hr />
 <h3>My Resumes</h3>
-
-<h3>My Resumes</h3>
-
 <table>
   <tr>
     <td align="center" style="padding: 10px;">
