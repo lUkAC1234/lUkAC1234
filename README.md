@@ -3,24 +3,33 @@
 </div>
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-```javascript
-const information = {
-  pronouns: "He/Him",
-  firstName: "Shaxobiddin",
-  askMeAbout: ["Web Development", "Technology", "App Development"],
-  aboutMe: `
-    I am an 18-year-old developer from Uzbekistan with over 4 years of 
-    hands-on experience in web development. My journey began at the age 
-    of 12, when I discovered the excitement of creating and building 
-    things with code. 
+<article aria-label="Profile of Shaxobiddin">
+  <h1>Shaxobiddin</h1>
+  <p><strong>Full-Stack Developer</strong> • Uzbekistan • <strong>He/Him</strong></p>
 
-    Since then, programming has grown from a hobby into a profession 
-    that I am deeply passionate about. Unlike many other paths, this 
-    career gives me the freedom to create, innovate, and solve problems 
-    in unique ways. 
-  `,
-};
+  <h2>About me</h2>
+  <p>
+    I am an 18-year-old full-stack developer from Uzbekistan with over four years of
+    practical experience building web applications. I first discovered programming at
+    age 12 and turned that early curiosity into a focused, professional path. I enjoy
+    designing maintainable, user-centered solutions and solving real problems using
+    modern web technologies and best practices.
+  </p>
 
+  <h2>Focus areas</h2>
+  <ul>
+    <li>Web development (frontend & backend)</li>
+    <li>App development and progressive web apps</li>
+    <li>Software architecture, performance and maintainability</li>
+  </ul>
+
+  <h2>Quick profile</h2>
+  <p>
+    <strong>Pronouns:</strong> He/Him<br>
+    <strong>Experience:</strong> 4+ years (started coding at 12)<br>
+    <strong>Location:</strong> Uzbekistan
+  </p>
+</article>
 <br/>
 <table>
 <tr>
