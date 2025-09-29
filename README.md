@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"  />
+  <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/gif/githubProfileGif.gif"  />
 </div>
 
 <h2 align="left">Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
