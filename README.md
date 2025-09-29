@@ -23,16 +23,14 @@
           A little more about me
         </h3>
       </div>
-      <div style="flex:1;min-width:0;">
-        <pre>
-  I am an 18-year-old full-stack developer from Tashkent, Uzbekistan, 
-  with <mark style="background:#1A2FFB;color:#FFFFFF;padding:0 4px;border-radius:4px;">4 years</mark> of experience building reliable web applications.
+      <pre>
+I am an 18-year-old full-stack developer from Tashkent, Uzbekistan, 
+with <mark style="background:#1A2FFB;color:#FFFFFF;padding:0 4px;border-radius:4px;">4 years</mark> of experience building reliable web applications.
           
-  I began exploring programming at age 12 — what started as curiosity quickly became a focused professional path.
-  I specialize in designing maintainable, user-centered solutions, improving performance,
-  and applying modern web best practices to solve real problems.
-        </pre>
-      </div>
+I began exploring programming at age 12 — what started as curiosity quickly became a focused professional path.
+I specialize in designing maintainable, user-centered solutions, improving performance,
+and applying modern web best practices to solve real problems.
+      </pre>
     </div>
   </div>
   <h3>Focus areas</h3>
