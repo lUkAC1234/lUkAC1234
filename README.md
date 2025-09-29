@@ -3,14 +3,52 @@
 </div>
 <h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
 <article aria-label="Profile of Shaxobiddin">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-  <p>
-    I am an 18-year-old full-stack developer from Uzbekistan with over four years of
-    practical experience building web applications. I first discovered programming at
-    age 12 and turned that early curiosity into a focused, professional path. I enjoy
-    designing maintainable, user-centered solutions and solving real problems using
-    modern web technologies and best practices.
-  </p>
+  <div
+    role="region"
+    aria-label="More about me"
+    style="max-width:900px;margin:20px auto 36px auto;font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;color:#0b1220;"
+  >
+    <div
+      style="display:flex;gap:14px;align-items:flex-start;background:#f8fbff;border:1px solid rgba(11,17,28,0.04);padding:14px;border-radius:10px;box-shadow:0 8px 20px rgba(2,6,23,0.06);"
+    >
+      <img
+        src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
+        alt="Animated coding gif"
+        width="56"
+        height="56"
+        style="border-radius:8px;flex:0 0 56px;object-fit:cover;border:1px solid rgba(11,17,28,0.03);"
+      />
+      <!-- Text content -->
+      <div style="flex:1;min-width:0;">
+        <h3 style="margin:0 0 6px 0;font-size:16px;font-weight:700;color:#071026;">A little more about me</h3>
+        <p style="margin:0 0 10px 0;color:#1f2b3a;line-height:1.6;font-size:14px;">
+          I am an 18-year-old full-stack developer from Tashkent, Uzbekistan, with over four years
+          of hands-on experience building reliable web applications. I began exploring programming
+          at age 12 — what started as curiosity quickly became a focused professional path. I
+          specialize in designing maintainable, user-centered solutions, improving performance,
+          and applying modern web best practices to solve real problems.
+        </p>
+        <div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:6px;">
+          <span style="display:inline-block;background:#e6f3ff;border:1px solid rgba(11,17,28,0.03);padding:6px 10px;border-radius:999px;font-size:13px;color:#073059;font-weight:600;">
+            18 years
+          </span>
+          <span style="display:inline-block;background:#f0f7ff;border:1px solid rgba(11,17,28,0.03);padding:6px 10px;border-radius:999px;font-size:13px;color:#073059;font-weight:600;">
+            Full-Stack Developer
+          </span>
+          <span style="display:inline-block;background:#fff6ed;border:1px solid rgba(11,17,28,0.03);padding:6px 10px;border-radius:999px;font-size:13px;color:#7a4a00;font-weight:600;">
+            Uzbekistan
+          </span>
+          <span style="display:inline-block;background:#effdf6;border:1px solid rgba(11,17,28,0.03);padding:6px 10px;border-radius:999px;font-size:13px;color:#0b6b3a;font-weight:600;">
+            4+ years experience
+          </span>
+        </div>
+        <div style="margin-top:12px;color:#4b5b6a;font-size:13px;">
+          <strong style="color:#071026;font-weight:600;">Focus:</strong>
+          <span style="margin-left:8px;">Web development · App development · Architecture & performance</span>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <h3>Focus areas</h3>
  <table
