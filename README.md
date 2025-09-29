@@ -59,6 +59,7 @@ const information = {
   </a>
 </div>
 <br/>
+<hr />
 <h3>My Resumes</h3>
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
@@ -68,7 +69,7 @@ const information = {
     <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg" height="60" alt="PDF icon" />
     <p style="margin-top: 10px; font-weight: bold; color: #ffffff;">Резюме (Русский)</p>
   </a>
-
+  <hr />
   <a href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/ResumeEnglish.pdf" download
      style="display: flex; flex-direction: column; align-items: center; text-decoration: none; background: #f9f9f9; border-radius: 10px; padding: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.2s; width: 200px;">
     <img src="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/svg/pdf.svg" height="60" alt="PDF icon" />
