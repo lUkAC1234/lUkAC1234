@@ -11,25 +11,24 @@
     <div
       style="display:flex;gap:14px;align-items:flex-start;background:#f8fbff;border:1px solid rgba(11,17,28,0.04);padding:14px;border-radius:10px;box-shadow:0 8px 20px rgba(2,6,23,0.06);"
     >
-      <img
-        src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
-        alt="Animated coding gif"
-        width="56"
-        height="56"
-        style="border-radius:8px;flex:0 0 56px;object-fit:cover;border:1px solid rgba(11,17,28,0.03);"
-      />
-      <!-- Text content -->
-      <div style="flex:1;min-width:0;">
+      <div style="display:flex;gap:14px;align-items:flex-start;">
+        <img
+          src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"
+          alt="Animated coding gif"
+          width="56"
+          height="56"
+          style="border-radius:8px;flex:0 0 56px;object-fit:cover;border:1px solid rgba(11,17,28,0.03);"
+        />
         <h3 style="margin:0 0 6px 0;font-size:16px;font-weight:700;color:#071026;">A little more about me</h3>
-        <pre style="margin:0 0 10px 0;color:#1f2b3a;line-height:1.6;font-size:14px;">
+      </div>
+      <pre style="margin:0 0 10px 0;color:#1f2b3a;line-height:1.6;font-size:14px;">
 I am an 18-year-old full-stack developer from Uzbekistan, Tashkent city, 
 with <mark>4 years</mark> of experience b uilding reliable web applications. 
           <br>
 I began exploring programming at age 12 — what started as curiosity quickly became a focused professional path. 
 I specialize in designing maintainable, user-centered solutions, improving performance,
 and applying modern web best practices to solve real problems.
-        </pre>
-    </div>
+      </pre>
   </div>
 
   <h3>Focus areas</h3>
