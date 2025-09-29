@@ -2,7 +2,7 @@
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/gif/githubProfileGif.gif"  />
 </div>
 
-<h2 align="left">Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
+<h2>Hi 👋! My name is Shaxobiddin and I'm a Web Developer, from Uzbekistan</h2>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -29,7 +29,7 @@ const information = {
 <br/>
 <br/>
 
-<div align="center">
+<div>
   <img src="https://streak-stats.demolab.com?user=lUkAC1234&locale=en&mode=weekly&theme=vue&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lUkAC1234&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=vue&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -37,10 +37,10 @@ const information = {
 <br/>
 <br/>
 
-<h3 align="center">What languages do I program in?</h3>
+<h3>What languages do I program in?</h3>
 <br/>
 
-<div align="center">
+<div>
   <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/technologiesNew%201.svg" alt="Technologies logo" />
 </div>
 <br/>
@@ -48,25 +48,25 @@ const information = {
 <br/>
 <hr/>
 
-<div align="center">
+<div>
   <img height="400" src="https://static.zerochan.net/joze.phine.full.2119976.jpg">
 </div>
 
-<h3 align="right">My social medias ?</h3>
+<h3>My social medias ?</h3>
 
-<div align="right">
-  <a href="https://www.instagram.com/i.really_miss.you_/" target="_blank">
+<div>
+  <a href="https://www.instagram.com/zukhriddinov.sh/" target="_blank">
     <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/instagram.svg" width="32" height="32" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/shaxobiddin-zuxriddinov-473110294/" target="_blank">
+  <a href="https://t.me/lUkACENkO1" target="_blank">
     <img src="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/svg/telegram.svg" width="32" height="32" alt="linkedin logo"  />
   </a>
 </div>
 <br/>
 <br/>
 <br/>
-<h2 align="center">How many people are watching my Github account</h2>
+<h3>How many people are watching my Github account</h2>
 
-<div align="center">
+<div>
   <img src="https://profile-counter.glitch.me/lUkAC1234/count.svg?"  />
 </div>
