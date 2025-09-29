@@ -182,7 +182,7 @@ and applying modern web best practices to solve real problems.
   <tr>
     <td style="padding:6px;text-align:center;">
       <a
-        href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/ResumeEnglish.pdf"
+        href="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/pdf/ResumeEnglish.pdf"
         download
         role="button"
         aria-label="Download Resume (English)"
@@ -201,7 +201,7 @@ and applying modern web best practices to solve real problems.
     </td>
     <td style="padding:6px;text-align:center;">
       <a
-        href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf"
+        href="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf"
         download
         role="button"
         aria-label="Download Resume (Russian)"
@@ -230,7 +230,7 @@ and applying modern web best practices to solve real problems.
   <tr>
     <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:12px;color:#6b7280;">
       <a
-        href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/ResumeEnglish.pdf"
+        href="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/pdf/ResumeEnglish.pdf"
         download
         style="color:inherit;text-decoration:none;font-weight:700;"
         title="Download Resume (English)"
@@ -240,7 +240,7 @@ and applying modern web best practices to solve real problems.
     </td>
     <td style="padding-top:6px;text-align:center;font-family:Inter, system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;font-size:12px;color:#6b7280;">
       <a
-        href="https://github.com/lUkAC1234/readmefileDependencies/raw/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf"
+        href="https://github.com/lUkAC1234/readmefileDependencies/blob/main/images/pdf/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.pdf"
         download
         style="color:inherit;text-decoration:none;font-weight:700;"
         title="Download Resume (Russian)"
