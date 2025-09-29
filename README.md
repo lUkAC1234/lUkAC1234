@@ -176,7 +176,7 @@ and applying modern web best practices to solve real problems.
     </td>
   </tr>
 </table>
-<br/>
+<hr />
 <h3>My Resumes</h3>
 <table style="margin:12px auto;border-collapse:collapse;">
   <tr>
