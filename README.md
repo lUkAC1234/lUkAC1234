@@ -80,7 +80,7 @@ and applying modern web best practices to solve real problems.
       <tr style="background:#ffffff;">
         <td style="padding:14px 18px;color:#071026;font-weight:600">University of Westminster Tashkent</td>
         <td style="padding:14px 18px;color:#1f2b3a">Tashkent</td>
-        <td style="padding:14px 18px;color:#1f2b3a"><strong>BSc</strong> — Economics</td>
+        <td style="padding:14px 18px;color:#1f2b3a"><strong>BSc</strong> — Computer Science</td>
         <td style="padding:14px 18px;color:#0b1220;font-weight:600">July 2025 – Present</td>
       </tr>
     </tbody>
