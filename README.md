@@ -25,7 +25,7 @@
       </div>
       <pre>
 I am an 18-year-old full-stack developer from Tashkent, Uzbekistan, 
-with <mark style="background:#1A2FFB;color:#FFFFFF;padding:0 4px;border-radius:4px;">4 years of experience</mark> building reliable web applications.
+with <mark style="background:#1A2FFB;color:#FFFFFF;padding:0 4px;border-radius:4px;">5 years of experience</mark> building reliable web applications.
 <br>
 I began exploring programming at age 12 — what started as curiosity quickly became a focused professional path.
 I specialize in designing maintainable, user-centered solutions, improving performance,
